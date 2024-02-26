@@ -1,4 +1,4 @@
-# Импорт необходимых пакетов
+# Импорт необходимых пакетов орорлор
 import numpy as np
 import argparse
 import imutils
